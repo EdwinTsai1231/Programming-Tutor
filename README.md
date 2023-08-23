@@ -1,6 +1,16 @@
 # Assignment
 
-
+## Week 4
+### ZeroJudge 
++ a227 三龍杯 -> 河內之塔 (medium)
++ a149 乘乘樂 (easy)
++ e357 遞迴函數練習 (easy)
++ b836 kevin戀愛攻略系列題-2 說好的霸王花呢?? (easy)
++ a034 二進位制轉換 (easy) hint: 這題可以用array來解, 但也可以用遞迴來解此題
++ d487 Order's computation process (easy)
++ e156 良心題: 求和 (easy) hint: 可以用Week2的運算元所學的一些小技巧
++ e790 倉庫整理 (Warehouse) (hard) hint: 注意可能會TLE(超時)要想辦法用更好的解決方法
+---
 ## Week 3
 ### ZeroJudge 
 + a244 新手訓練 ~ for + i (easy)
