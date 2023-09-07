@@ -1,5 +1,37 @@
 # Assignment
 
+## Week 5
+### ZeroJudge
++ a001 哈囉(easy)
++ a009 解碼器(easy)
++ a015 矩陣的翻轉 (easy) 
++ a020 身分證檢驗 (easy)
++ a022 迴文 (easy)
++ a065 提款卡密碼 (easy)
++ a216 數數愛明明 (easy)
++ a224 明明愛明明 (easy) 與a022相似
++ a104 排序 (easy)
++ a225 明明愛排列 (easy)
++ a981 求和問題 (easy)
++ b367 翻轉世界 (easy)
++ b374 [福州19中]众数 (easy)
++ b759 我明明就有說過= = (easy)
++ c418 Bert的三角形 (1) (easy)
++ c419 Bert的三角形 (2) (easy)
++ c420 Bert的三角形 (3) (easy)
+#### 以下幾乎是 array 搭配遞迴 recursion 解題
++ a524 手機之謎 (medium)
++ a229 括號匹配問題 (medium)
++ d471 0 與 1 的遊戲 (medium)
++ d115 數字包牌 (medium)
++ h206 強者就是要戰，但......什麼才是強者呢？ (medium) hint: 用類似 merge sort 的技巧
++ d626 小畫家真好用 (medium)
++ f928 連環炸彈.................Boom！(medium)
+#### 大數運算
++ a021 大數運算 (hard) 這題演算法不難, 難的是細心, 麻煩的是除法
+
+---
+
 ## Week 4
 ### ZeroJudge 
 + a227 三龍杯 -> 河內之塔 (medium)
