@@ -1,5 +1,17 @@
 # Assignment
 
+## Week 6
+### ZeroJudge 
++ k924 數字結合 (Combination) (easy)
++ e346 區間和練習 (easy)
++ b701 我的領土有多大 (medium)
++ e446 排列生成 (medium)
++ f374 分組 Grouping (easy/medium)
++ f443 商品擺設 Merchandise (medium)
++ f605 購買力 (easy)
++ k732 特殊位置 (medium)
++ k740 楊輝三角形 (easy/medium)
+---
 ## Week 5
 ### ZeroJudge
 + a001 哈囉(easy)
@@ -29,9 +41,7 @@
 + f928 連環炸彈.................Boom！(medium)
 #### 大數運算
 + a021 大數運算 (hard) 這題演算法不難, 難的是細心, 麻煩的是除法
-
 ---
-
 ## Week 4
 ### ZeroJudge 
 + a227 三龍杯 -> 河內之塔 (medium)
