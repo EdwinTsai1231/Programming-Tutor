@@ -1,5 +1,6 @@
 # Assignment
 
+[HackMD 筆記](https://hackmd.io/@5DTClwyzQ36k2oRjy9IorA/ryD85Hg1p)
 ## Week 6
 ### ZeroJudge 
 + k924 數字結合 (Combination) (easy)

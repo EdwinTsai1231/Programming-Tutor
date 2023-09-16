@@ -6,7 +6,7 @@ if __name__ == "__main__":
         nums = []
         line = ''
         for j in range(100000):
-            nums.append((int)(random() * 2000))
+            nums.append((int)(random() * 10000))
         line = ' '.join(str(num) for num in nums)
         file.write(f'{line}\n')
             
